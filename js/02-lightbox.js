@@ -31,5 +31,5 @@ new SimpleLightbox('.gallery a',
         captionPosition: 'bottom',
         captionDelay: '250',
         focus: false,
-        animationSpeed: '1000',
+       
     });
